@@ -1,0 +1,14 @@
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\C#\Warren\ApiDupla\APIDupla\Data\bin\Debug\net6.0\Data.deps.json
+C:\C#\Warren\ApiDupla\APIDupla\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\C#\Warren\ApiDupla\APIDupla\Data\bin\Debug\net6.0\Data.dll
+C:\C#\Warren\ApiDupla\APIDupla\Data\bin\Debug\net6.0\Data.pdb
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\Data.dll
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\refint\Data.dll
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\Data.pdb
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\C#\Warren\ApiDupla\APIDupla\Data\obj\Debug\net6.0\ref\Data.dll
